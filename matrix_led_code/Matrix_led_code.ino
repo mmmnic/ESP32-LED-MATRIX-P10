@@ -22,7 +22,7 @@
 #define P_B           23
 #define P_C           18
 #define P_OE          16
-#define PANEL_WIDTH   64
+#define PANEL_WIDTH   32
 #define PANEL_HEIGHT  16
 // This defines the 'on' time of the display is us. The larger this number,
 // the brighter the display. If too large the ESP will crash
